@@ -17,7 +17,7 @@ This shall setup the active running server in which all the requests shall be se
 
 On a new termninal instance run the followng commands to setup the frontpage:
 
-- `cd frontend`
+- `cd frontpage`
 - `npm init`
 - `npm start`
 
