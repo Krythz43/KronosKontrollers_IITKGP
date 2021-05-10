@@ -2,6 +2,13 @@
 
 We present you with an app that shall with great accuracy provide you the value of various discounts whichs you can obtain by providing the details of the associated product. 
 
+## Accessing the final result
+
+The product can be accessed on [https://kronos-discount-predictor.netlify.app/](https://kronos-discount-predictor.netlify.app/).
+The site should be quite userfriendly and fun to test out.
+
+## Setting up Locally
+
 ### Running the server:
 
 The server cuurently uses flask and processes all the required computations. Do check `requirements.text` to know what all packages are required for the same.

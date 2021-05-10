@@ -230,7 +230,7 @@ class Dropdowns extends Component {
 			body: JSON.stringify({ items })
 		};
         console.log("Request body: ",JSON.stringify({items}))
-		const BASE_URL = "http://127.0.0.1:5000/results";
+		const BASE_URL = "https://kronos-discount.herokuapp.com/results";
 		fetch(BASE_URL, requestOptions)
 		.then(response => response.json())
 		.then(json =>{
