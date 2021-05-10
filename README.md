@@ -24,8 +24,8 @@ This shall setup the active running server in which all the requests shall be se
 
 On a new termninal instance run the followng commands to setup the frontpage:
 
-- `cd frontend`
-- `npm init`
+- `cd frontpage`
+- `npm install`
 - `npm start`
 
 This shall setup your webpage instance at `http://localhost:3000/'. Run and enjoy!
