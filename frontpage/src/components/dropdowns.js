@@ -29,6 +29,7 @@ const subsegmentOptions = [
 
     { value: 'Restaurant', label: 'Restaurant',segment:'Food Led' },
     { value: 'Quick Dining', label: 'Quick Dining' ,segment:'Food Led' },
+    { value: 'Hybrid', label: 'Hybrid' ,segment:'Food Led' },
 
     { value: 'Sub Agent', label: 'Sub Agent',segment:'Wholesaler'  },
 

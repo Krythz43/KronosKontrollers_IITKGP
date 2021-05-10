@@ -1,4 +1,4 @@
-# DiscountPredictor-Macerick2.0
+# DiscountPredictor-Maverick2.0
 
 We present you with an app that shall with great accuracy provide you the value of various discounts whichs you can obtain by providing the details of the associated product. 
 
@@ -11,7 +11,7 @@ The site should be quite userfriendly and fun to test out.
 
 ### Running the server:
 
-The server cuurently uses flask and processes all the required computations. Do check `requirements.text` to know what all packages are required for the same.
+The server cuurently uses flask and processes all the required computations. Do check `requirements.txt` to know what all packages are required for the same.
 
 To downlod all the packages run:
 `pip3 install -r requirements.txt`
@@ -22,6 +22,7 @@ This shall setup the active running server in which all the requests shall be se
 
 ### Setting up the frontend:
 
+Make sure you have npm installed at version `6.x.x` or higher. This can be checked by running `npm -v`.
 On a new termninal instance run the followng commands to setup the frontpage:
 
 - `cd frontpage`
